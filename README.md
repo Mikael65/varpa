@@ -1,4 +1,4 @@
 varpa
 =====
 
-Värpa "varpa" management software for eggproducers
+Värpa "varpa" eggproduction management application.
